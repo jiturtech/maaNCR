@@ -1,0 +1,31 @@
+const colors = {
+  COLOR_RED: 'red',
+  COLOR_TRANSPARENT: 'transparent',
+  COLOR_BLACK: '#000000',
+  COLOR_WHITE: '#ffffff',
+  COLOR_LIGHT_GREY: '#ccc',
+  COLOR_GREY: '#999999',
+  COLOR_DARK_GREY: '#555555',
+  COLOR_LOADER: 'rgba(0, 0, 0, 0.7)',
+  COLOR_OPACITY: 'rgba(0,0,0,0.6)',
+  COLOR_OPACITY1: 'rgba(0,0,0,0.4)',
+  COLOR_GOLD: '#B79031',
+  COLOR_SILVER: '#B7B7B7',
+  COLOR_THEME: '#5D51FF',
+  COLOR_HDR_LIGHT: '#ECECEC',
+  COLOR_BODR: '#D9D9D9',
+  COLOR_GREY_NEW: '#F5F5F5',
+  COLOR_THEME_OPACITY: 'rgba(93, 81, 255,0.2)', //'rgba(255, 92, 77, 0.2)',
+  COLOR_BLUE: '#3396FF',
+  COLOR_GREEN: '#34A353',
+  COLOR_LIGHT_THEME_BLUE: '#3E3B64',
+  COLOR_THEME_BLUE: '#141432',
+  COLOR_NEW_GRAY: '#292D32',
+  NEW_OPACITY: '#212121DE',
+
+  //new phase wise color
+  OUTER_COLOR: '#D9D9D9',
+  INPUT_SELECT: '#5D51FF',
+};
+
+export default colors;
